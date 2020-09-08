@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.81514595.chunk.css",
-    "main.js": "/Portfolio/static/js/main.fd42415b.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.fd42415b.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.4b54f359.chunk.css",
+    "main.js": "/Portfolio/static/js/main.b2f99395.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b2f99395.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.e3b9ca47.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e3b9ca47.js.map",
-    "static/js/2.73b7911e.chunk.js": "/Portfolio/static/js/2.73b7911e.chunk.js",
-    "static/js/2.73b7911e.chunk.js.map": "/Portfolio/static/js/2.73b7911e.chunk.js.map",
+    "static/js/2.9f464e79.chunk.js": "/Portfolio/static/js/2.9f464e79.chunk.js",
+    "static/js/2.9f464e79.chunk.js.map": "/Portfolio/static/js/2.9f464e79.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.2a051664ae300f898c4d59f7d1b34a5d.js": "/Portfolio/precache-manifest.2a051664ae300f898c4d59f7d1b34a5d.js",
+    "precache-manifest.0e08fd3eafb99f1463db839243c0c0e6.js": "/Portfolio/precache-manifest.0e08fd3eafb99f1463db839243c0c0e6.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.81514595.chunk.css.map": "/Portfolio/static/css/main.81514595.chunk.css.map",
-    "static/js/2.73b7911e.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.73b7911e.chunk.js.LICENSE.txt",
-    "static/media/Bootstrap.png": "/Portfolio/static/media/Bootstrap.792c2dc5.png",
-    "static/media/Dynamic_phone_size_1.png": "/Portfolio/static/media/Dynamic_phone_size_1.b4b50a52.png",
-    "static/media/Hahow_webpage_clone.png": "/Portfolio/static/media/Hahow_webpage_clone.a2d1ef45.png",
-    "static/media/Shopping_Cart.png": "/Portfolio/static/media/Shopping_Cart.fb6fe840.png",
-    "static/media/Vue_Piano.png": "/Portfolio/static/media/Vue_Piano.769033b2.png",
-    "static/media/Weather_box.png": "/Portfolio/static/media/Weather_box.6c894c2c.png",
-    "static/media/website-background.gif": "/Portfolio/static/media/website-background.cce4e549.gif"
+    "static/css/main.4b54f359.chunk.css.map": "/Portfolio/static/css/main.4b54f359.chunk.css.map",
+    "static/js/2.9f464e79.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9f464e79.chunk.js.LICENSE.txt",
+    "static/media/Bootstrap.png": "/Portfolio/static/media/Bootstrap.bb01afae.png",
+    "static/media/Hahow_webpage_clone.png": "/Portfolio/static/media/Hahow_webpage_clone.67d8f262.png",
+    "static/media/Light-Blue-Ocean.jpg": "/Portfolio/static/media/Light-Blue-Ocean.3023e089.jpg",
+    "static/media/Shopping_Cart.png": "/Portfolio/static/media/Shopping_Cart.40ef58bd.png",
+    "static/media/Vue_Piano.png": "/Portfolio/static/media/Vue_Piano.22291712.png",
+    "static/media/Weather_box.png": "/Portfolio/static/media/Weather_box.25dc3283.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e3b9ca47.js",
-    "static/js/2.73b7911e.chunk.js",
-    "static/css/main.81514595.chunk.css",
-    "static/js/main.fd42415b.chunk.js"
+    "static/js/2.9f464e79.chunk.js",
+    "static/css/main.4b54f359.chunk.css",
+    "static/js/main.b2f99395.chunk.js"
   ]
 }
