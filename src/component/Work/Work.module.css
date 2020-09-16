@@ -1,0 +1,65 @@
+.Work{
+    display: inline-block;
+    width: 350px;
+    height: 250px;
+    vertical-align: top;
+    position: relative;
+    margin: 10px 10px;
+    margin-bottom: 25px;
+}
+
+.container{
+    width: 100%;
+    height: 184px;
+    /* height: 250px; */
+    opacity: 0;
+    position: absolute;
+    left: 50%;
+    top: 0%;
+    transform: translate(-50%, 0%);
+    transition: 0.7s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1;
+}
+
+/* .container p {
+    text-align: left;
+    padding: 10px;
+    margin: 0;
+    font-weight: 600;
+    color: #333;
+    letter-spacing: 0.5px;
+    opacity: 1;
+} */
+
+.container:hover{
+    background-color: rgba(255, 255, 255, 0.397);
+    opacity: 1;
+    box-shadow: 0 0 10px rgba(129, 129, 129, 1);
+    z-index: 1;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.Work h1 {
+    color: rgb(255, 141, 76);
+    /* text-shadow: 1px 1px rgb(255, 206, 116); */
+    margin-top: 0;
+    font-weight: 500;
+}
+
+.Work p {
+    /* text-align: justify; */
+    padding: 8px;
+    margin: 0;
+    font-weight: 600;
+    font-size: large;
+    color: #333;
+    letter-spacing: 0.5px;
+}

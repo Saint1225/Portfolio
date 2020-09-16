@@ -1,0 +1,29 @@
+.Navitem {
+    /* margin-right: 50px; */
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 12px;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+}
+
+.Navitem a {
+    text-decoration: none;
+    color: rgb(61, 51, 117);
+    padding: 16px 42px;
+    transition: 0.3s;
+}
+
+
+.Navitem a:hover,
+.Navitem a.linkactive {
+    color: rgb(255, 166, 0);
+}
+
+.Navitem a:hover {
+    background-color: rgba(231, 231, 231, 0.794);
+}
+

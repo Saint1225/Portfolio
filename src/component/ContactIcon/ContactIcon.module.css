@@ -1,0 +1,9 @@
+.icon {
+    display: inline-block;
+    margin: 0 10px;
+    width: 35px;
+}
+
+.icon a {
+    color: #333
+}

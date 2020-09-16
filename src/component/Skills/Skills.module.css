@@ -1,0 +1,30 @@
+.Skills {
+    margin: 20px;
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.icon {
+    width: 10%;
+    height: 80px;
+    text-align: center;
+    color: #333;
+}
+
+.bar {
+    width: 80%;
+    height: 40px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(172, 172, 172);
+    overflow: hidden;
+}
+
+.skillbar {
+    height: 40px;
+    background-color: rgb(70, 37, 255);
+    border-radius: 10px;
+    box-shadow: 5px 0px 10px #ccc;
+}

@@ -1,0 +1,9 @@
+.bgc {
+    background-image: url('./assets/image/Light-Blue-Ocean.jpg');
+    width: auto;
+    height: 657px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
