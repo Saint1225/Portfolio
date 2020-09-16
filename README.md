@@ -1,5 +1,5 @@
 # Portfolio
-Personal portfolio created from React.js
+### Personal portfolio created from React.js
 
 
 Retrieving JSON from Firebase with Axios (HTTP request)
