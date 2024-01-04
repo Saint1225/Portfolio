@@ -3,6 +3,7 @@ import axios from 'axios';
 
 import classes from './Works.module.css';
 import Work from '../../component/Work/Work';
+import React_Myburger from '../../assets/image/React_Myburger.png';
 import Vue_Piano from '../../assets/image/Vue_Piano.png';
 import Bootstrap from '../../assets/image/Bootstrap.png';
 import Weather_box from '../../assets/image/Weather_box.png';
@@ -13,6 +14,10 @@ import Hahow_webpage_clone from '../../assets/image/Hahow_webpage_clone.png';
 class Works extends Component{
     state = {
         works: {
+            reactMyBurger: {
+                title: 'React-MyBurger', 
+                linkto: 'https://github.com/Saint1225/React-MyBurger',
+                description: ''},
             bootstrap: {
                 title: 'Bootstrap-web-page', 
                 linkto: 'https://github.com/Saint1225/Bootstrap-web-page',
@@ -39,6 +44,7 @@ class Works extends Component{
                 description: ''}
         },
         img: {
+            reactMyBurger: React_Myburger,
             bootstrap: Bootstrap,
             piano: Vue_Piano,
             weatherbox: Weather_box,
