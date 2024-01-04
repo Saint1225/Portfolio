@@ -27,10 +27,11 @@ const About = () => {
                 <Fade up>
                     <h2>SKILL</h2>
                     <hr />
+                    <Skills icon='react' percent='95%'></Skills>
+                    <Skills icon='js-square' percent='90%'></Skills>
+                    <Skills icon='node' percent='80%'></Skills>
                     <Skills icon='html5' percent='80%'></Skills>
                     <Skills icon='css3' percent='80%'></Skills>
-                    <Skills icon='js-square' percent='70%'></Skills>
-                    <Skills icon='react' percent='65%'></Skills>
                 </Fade>
             </div>
             <div className={classes.Contact}>
