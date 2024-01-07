@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a7f9baeb78118784a3df268c007333f",
+    "revision": "ffc19134c8fae2224a878d56ddbc6840",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "79a21937db7df0542f28",
-    "url": "/Portfolio/static/css/main.b480e3fc.chunk.css"
+    "revision": "2fb9961209dedfbf54a0",
+    "url": "/Portfolio/static/css/main.cadadbd5.chunk.css"
   },
   {
-    "revision": "198d76fb8f8cfc4b7733",
-    "url": "/Portfolio/static/js/2.edf79ece.chunk.js"
+    "revision": "3c93ddb3e3870ecb2de3",
+    "url": "/Portfolio/static/js/2.84695cf7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Portfolio/static/js/2.edf79ece.chunk.js.LICENSE.txt"
+    "url": "/Portfolio/static/js/2.84695cf7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79a21937db7df0542f28",
-    "url": "/Portfolio/static/js/main.e8251240.chunk.js"
+    "revision": "2fb9961209dedfbf54a0",
+    "url": "/Portfolio/static/js/main.e1175bd3.chunk.js"
   },
   {
     "revision": "1bb03f8fa6eaad57c510",
@@ -28,12 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/Bootstrap.bb01afae.png"
   },
   {
+    "revision": "13cb85ac27fbb826e903005fbfc21226",
+    "url": "/Portfolio/static/media/Food_order_app_2.13cb85ac.png"
+  },
+  {
     "revision": "67d8f262359be14a77adb8c908b2d2e3",
     "url": "/Portfolio/static/media/Hahow_webpage_clone.67d8f262.png"
   },
   {
     "revision": "3023e0895d5eb27284feeb1278ecba08",
     "url": "/Portfolio/static/media/Light-Blue-Ocean.3023e089.jpg"
+  },
+  {
+    "revision": "63f2f552d75bcad606a0cb6545475b1d",
+    "url": "/Portfolio/static/media/ShoppingCart_list.63f2f552.png"
   },
   {
     "revision": "40ef58bd937d5f9003ed0d90ae22a2c8",

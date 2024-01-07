@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b480e3fc.chunk.css",
-    "main.js": "/Portfolio/static/js/main.e8251240.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.e8251240.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.cadadbd5.chunk.css",
+    "main.js": "/Portfolio/static/js/main.e1175bd3.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.e1175bd3.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.e3b9ca47.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e3b9ca47.js.map",
-    "static/js/2.edf79ece.chunk.js": "/Portfolio/static/js/2.edf79ece.chunk.js",
-    "static/js/2.edf79ece.chunk.js.map": "/Portfolio/static/js/2.edf79ece.chunk.js.map",
+    "static/js/2.84695cf7.chunk.js": "/Portfolio/static/js/2.84695cf7.chunk.js",
+    "static/js/2.84695cf7.chunk.js.map": "/Portfolio/static/js/2.84695cf7.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "precache-manifest.62706f13c5e212009af10d69a9717e8b.js": "/Portfolio/precache-manifest.62706f13c5e212009af10d69a9717e8b.js",
+    "precache-manifest.90a3e615e2769590a201de808a6827b3.js": "/Portfolio/precache-manifest.90a3e615e2769590a201de808a6827b3.js",
     "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.b480e3fc.chunk.css.map": "/Portfolio/static/css/main.b480e3fc.chunk.css.map",
-    "static/js/2.edf79ece.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.edf79ece.chunk.js.LICENSE.txt",
+    "static/css/main.cadadbd5.chunk.css.map": "/Portfolio/static/css/main.cadadbd5.chunk.css.map",
+    "static/js/2.84695cf7.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.84695cf7.chunk.js.LICENSE.txt",
     "static/media/Bootstrap.png": "/Portfolio/static/media/Bootstrap.bb01afae.png",
+    "static/media/Food_order_app_2.png": "/Portfolio/static/media/Food_order_app_2.13cb85ac.png",
     "static/media/Hahow_webpage_clone.png": "/Portfolio/static/media/Hahow_webpage_clone.67d8f262.png",
     "static/media/App.module.css": "/Portfolio/static/media/Light-Blue-Ocean.3023e089.jpg",
+    "static/media/ShoppingCart_list.png": "/Portfolio/static/media/ShoppingCart_list.63f2f552.png",
     "static/media/Shopping_Cart.png": "/Portfolio/static/media/Shopping_Cart.40ef58bd.png",
     "static/media/Vincent.png": "/Portfolio/static/media/Vincent.dc451851.png",
     "static/media/Vue_Piano.png": "/Portfolio/static/media/Vue_Piano.22291712.png",
@@ -22,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e3b9ca47.js",
-    "static/js/2.edf79ece.chunk.js",
-    "static/css/main.b480e3fc.chunk.css",
-    "static/js/main.e8251240.chunk.js"
+    "static/js/2.84695cf7.chunk.js",
+    "static/css/main.cadadbd5.chunk.css",
+    "static/js/main.e1175bd3.chunk.js"
   ]
 }
