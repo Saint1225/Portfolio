@@ -10,10 +10,21 @@ import Weather_box from '../../assets/image/Weather_box.png';
 import Shopping_Cart from '../../assets/image/Shopping_Cart.png';
 import Dynamic_phone_size_1 from '../../assets/image/Dynamic_phone_size_1.png';
 import Hahow_webpage_clone from '../../assets/image/Hahow_webpage_clone.png';
+import ShoppingCart_list from '../../assets/image/ShoppingCart_list.png';
+import Food_order_app_2 from '../../assets/image/Food_order_app_2.png';
+
 
 class Works extends Component{
     state = {
         works: {
+            foodOrderApp2: {
+                title: 'Food-order-app', 
+                linkto: 'https://github.com/Saint1225/Food-order-app-2',
+                description: ''},
+            shoppingCartList: {
+                    title: 'ShoppingCart-list', 
+                    linkto: 'https://github.com/Saint1225/ShoppingCart-list',
+                    description: ''},
             reactMyBurger: {
                 title: 'React-MyBurger', 
                 linkto: 'https://github.com/Saint1225/React-MyBurger',
@@ -37,13 +48,11 @@ class Works extends Component{
             phone: {
                 title: 'Dynamic-phone-size',
                 linkto: 'https://github.com/Saint1225/Dynamic-phone-size',
-                description: ''},
-            hahow: {
-                title: 'Hahow-webpage-clone', 
-                linkto: 'https://github.com/Saint1225/Hahow-webpage-clone',
                 description: ''}
         },
         img: {
+            foodOrderApp2: Food_order_app_2,
+            shoppingCartList: ShoppingCart_list,
             reactMyBurger: React_Myburger,
             bootstrap: Bootstrap,
             piano: Vue_Piano,
@@ -58,8 +67,6 @@ class Works extends Component{
         let updatedWork = {...this.state.works};
         axios.get('https://portfolio-890b4.firebaseio.com/works.json')
         .then(response => {
-            // console.log(response.data)
-            // console.log(updatedWork)
             for (let work in updatedWork){
                 updatedWork[work] = response.data[work]
             }
